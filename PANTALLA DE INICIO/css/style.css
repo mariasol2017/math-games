@@ -1,0 +1,18 @@
+.tituloprincipal{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 50px;
+    color: #32F21F;
+    text-align: center;
+}
+body{
+    background-color: #F36C6C;
+}
+.boton{
+    font-size: 40px;
+    font-family: 'Russo One', sans-serif;
+    font-weight: bold;
+    color: #1818DC;
+}
+#container{
+    text-align: center;
+}
